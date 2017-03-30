@@ -4,7 +4,7 @@ package FactoryPattern;
  * 普通工厂模式
  * chouchan
  */
-public class generalFactory {
+public class GeneralFactory {
     //二者共同的接口
     public interface Human{
         public void eat();
